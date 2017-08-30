@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Blogger is my first real rails app project where I created a simple blog system and learned
+the basics of Ruby on Rails including:
 
-Things you may want to cover:
 
-* Ruby version
+* MVC (Models, Views, Controllers)
+* Data Structures & Relationships
+* Routing
+* Migrations
+* Views with forms, partials, and helpers
+* RESTful design
+* Adding gems for extra features
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is all done within The Odin Project with tutorial http://tutorials.jumpstartlab.com/projects/blogger.html#blogger-2
